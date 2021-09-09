@@ -1,5 +1,5 @@
 package guru.springframework.sfgpetclinic.model;
-
+// pettype
 public class Pettype {
     private String name;
 
@@ -9,7 +9,7 @@ public class Pettype {
     }
 
     public void setName(String name) {
-        this.name = name;//
+        this.name = name;
     }
 
 }
